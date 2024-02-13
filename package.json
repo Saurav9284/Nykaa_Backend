@@ -1,0 +1,20 @@
+{
+  "name": "nykaa_backend",
+  "version": "1.0.0",
+  "description": "🌐 <a href='#'>URL</a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurav9284/Nykaa_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saurav9284/Nykaa_Backend/issues"
+  },
+  "homepage": "https://github.com/Saurav9284/Nykaa_Backend#readme"
+}
