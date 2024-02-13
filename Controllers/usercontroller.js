@@ -6,6 +6,8 @@ const {JWT_SECRET} = require('../Config/db')
 
 const userController = express.Router()
 
+// Signup 
+
 userController.post('/register', async (req,res)=>{
     const {name,avatar,email,password} = req.body;
     if(!name || !avatar || !email || !password){
@@ -40,6 +42,7 @@ userController.post('/register', async (req,res)=>{
     }
 });
 
+// Login
 
 userController.post('/login', async (req,res)=>{
     const {email , password} = req.body;

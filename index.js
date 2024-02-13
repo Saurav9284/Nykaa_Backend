@@ -4,7 +4,6 @@ const cors = require('cors')
 const userController = require('./Controllers/usercontroller')
 const productController = require('./Controllers/productcontroller')
 
-
 const app = express()
 
 app.use(express.json())
@@ -15,9 +14,10 @@ app.get('/',(req,res)=>{
     res.send({msg:'Running'})
 })
 
-app.use('/api', userController)
 
+app.use('/api', userController)
 app.use('/api', productController)
+
 
 app.listen(PORT, async () =>{
     try {
@@ -27,6 +27,6 @@ app.listen(PORT, async () =>{
         console.log(error)
     }
 
-    console.log(`Listening on ${PORT}`)
+    console.log(`Listening on PORT: ${PORT}`)
 }
 )
