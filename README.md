@@ -4,35 +4,35 @@
 
 🌐 <a href='#'>URL</a>
 
-🔺 Server check   ➡️   app/
+🔺 Server check  ➡  app/
 
-### Authentication 👨🏼‍💻:-
+### Authentication 🪪:-
 
-🔺 Login   ➡️   /api/login
+🔺 Login  ➡  /api/login
 
-🔺 Signup   ➡️   /api/register
+🔺 Signup  ➡  /api/register
 
 ### CURD Operations :-
 
-🔺 GET ALL   ➡️   /api/products
+🔺 GET ALL  ➡  /api/products
 
-🔺 GET BY ID   ➡️   /api/products/id
+🔺 GET BY ID  ➡  /api/products/id
 
-🔺 POST   ➡️   /api/products
+🔺 POST  ➡  /api/products
 
-🔺 PATCH   ➡️   /api/products/id
+🔺 PATCH  ➡  /api/products/id
 
-🔺 DELETE   ➡️   /api/products/id
+🔺 DELETE  ➡  /api/products/id
 
 ### Quries :-
 
-🔺 Sort   ➡️   ?sort=price&order=asc/desc
+🔺 Sort  ➡  ?sort=price&order=asc/desc
 
-🔺 Search 🔍  ➡️   ?title=yourtitle
+🔺 Search 🔍 ➡  ?title=yourtitle
 
-🔺 Filter   ➡️   ?gender=male/female
+🔺 Filter  ➡  ?gender=male/female
 
-🔺 Filter  ➡️  ?category=makeup/skincare/haircare
+🔺 Filter ➡ ?category=makeup/skincare/haircare
 
 
 
