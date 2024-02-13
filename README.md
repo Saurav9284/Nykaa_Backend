@@ -4,11 +4,11 @@
 
 🌐 <a href='#'>URL</a>
 
-🔺 Server check ==> app/
+🔺 Server check   ➡️   app/
 
 ### Authentication 👨🏼‍💻:-
 
-🔺 Login ==> /api/login
+🔺 Login   ➡️   /api/login
 
 🔺 Signup   ➡️   /api/register
 
