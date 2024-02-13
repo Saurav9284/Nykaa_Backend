@@ -28,7 +28,7 @@
 
 🔺 Sort  ➡  ?sort=price&order=asc/desc
 
-🔺 Search 🔍 ➡  ?title=yourtitle
+🔺 Search 🔍 ➡  ?name=yourname
 
 🔺 Filter  ➡  ?gender=male/female
 
